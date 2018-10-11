@@ -9,4 +9,4 @@ adv_ir_cmd: $(OBJS)
 
 clean:
 	@rm -f $(OBJS)
-	@rm -f irm_ir_cmd
+	@rm -f adv_ir_cmd
